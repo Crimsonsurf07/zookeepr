@@ -136,6 +136,25 @@
         "Sleepy"
       ],
       "id": "13"
+    },
+    {
+      "name": "Tye",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "Sleepy"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Tye",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
